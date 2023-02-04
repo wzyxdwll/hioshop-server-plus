@@ -15,7 +15,7 @@ https://www.bilibili.com/video/av89567916
 
 ### 本项目需要配合  
 微信小程序项目：GitHub: https://github.com/wzyxdwll/hioshop-miniprogram-plus  
-管理后台项目：GitHub: https://github.com/wzyxdwll/hioshop-admin-plus
+管理后台项目：GitHub: https://github.com/wzyxdwll/hioshop-admin-plus  
 
 <a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet"><img width="1400" src="http://git.hiolabs.com/aliyun.jpg"/></a>
 阿里云主机优惠季<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet">立即去看看</a>
@@ -101,8 +101,8 @@ npm start
 <img width="1000" src="http://git.hiolabs.com/github/save-local.jpg"/>
 
 - 项目地址  
-服务端： https://github.com/iamdarcy/hioshop-server  
-后台管理：https://github.com/iamdarcy/hioshop-admin  
-微信小程序：https://github.com/iamdarcy/hioshop-miniprogram  
+服务端： https://github.com/wzyxdwll/hioshop-server  
+后台管理：https://github.com/wzyxdwll/hioshop-admin  
+微信小程序：https://github.com/wzyxdwll/hioshop-miniprogram  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star
