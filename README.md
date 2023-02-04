@@ -17,13 +17,10 @@ https://www.bilibili.com/video/av89567916
 微信小程序项目：GitHub: https://github.com/wzyxdwll/hioshop-miniprogram-plus  
 管理后台项目：GitHub: https://github.com/wzyxdwll/hioshop-admin-plus  
 
-<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet"><img width="1400" src="http://git.hiolabs.com/aliyun.jpg"/></a>
-阿里云主机优惠季<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet">立即去看看</a>
-
 ### 本地开发环境配置
 + 克隆项目到本地
 ```
-git clone https://github.com/iamdarcy/hioshop-server
+git clone https://github.com/wzyxdwll/hioshop-server-plus
 ```
 + 创建数据库hiolabsDB并导入项目根目录下的hioshop.sql  
 推荐使用软件Navicat创建和管理数据库，也可以用以下命令创建：
@@ -93,7 +90,7 @@ npm start
 + 我的页面：订单（待付款，待发货，待收货），足迹，收货地址
 
 ### 项目截图
-请参考微信小程序项目：https://github.com/iamdarcy/hioshop-miniprogram
+请参考微信小程序项目：https://github.com/wzyxdwll/hioshop-miniprogram-plus  
 
 ### 最近更新 
 - 新增生成分享图的功能  
@@ -101,8 +98,8 @@ npm start
 <img width="1000" src="http://git.hiolabs.com/github/save-local.jpg"/>
 
 - 项目地址  
-服务端： https://github.com/wzyxdwll/hioshop-server  
-后台管理：https://github.com/wzyxdwll/hioshop-admin  
-微信小程序：https://github.com/wzyxdwll/hioshop-miniprogram  
+服务端： https://github.com/wzyxdwll/hioshop-server-plus  
+后台管理：https://github.com/wzyxdwll/hioshop-admin-plus  
+微信小程序：https://github.com/wzyxdwll/hioshop-miniprogram-plus  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star
