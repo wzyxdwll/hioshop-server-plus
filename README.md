@@ -1,3 +1,6 @@
+### 海风小店plus（原海风小店增强版）
+原海风小店作者似乎不维护了，fork出来进行功能增强和BUG修复
+
 ### 海风小店，开源商城（服务端）
 
 + 基于开源项目NideShop重建，精简了一些功能的同时完善了一些功能，并重新设计了UI
@@ -82,8 +85,6 @@ npm start
 
 客服使用微信小程序官方提供的客服功能即可
 
-具体进群交流 QQ群：824781955  
-
 ### 功能列表
 + 首页：搜索、Banner、公告、分类Icons、分类商品列表
 + 详情页：加入购物车、立即购买、选择规格
@@ -104,5 +105,4 @@ npm start
 后台管理：https://github.com/iamdarcy/hioshop-admin  
 微信小程序：https://github.com/iamdarcy/hioshop-miniprogram  
 
-- 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信、QQ群联系我，谢谢您的关注。
-<img width="1200" src="http://git.hiolabs.com/github/contact.jpg"/>
+- 本项目会持续更新和维护，喜欢别忘了 Star
